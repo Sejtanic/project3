@@ -6,7 +6,7 @@ Start server by oppeninc termina on top level in project3 folder and using comma
 
 Start project by opening terminal on top level in project3 folder and using command: npm start
 
-Looked out for Component composition and Code reusability ,each component is reusable
+Looked out for Component composition and Code reusability ,each component is reusable and without sideeffects
 
 Implemented LoadMore functionality as custom hook as suggested
 
