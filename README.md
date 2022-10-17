@@ -18,3 +18,6 @@ Used .env for sensitive data (i know that .env shoud not be commited to github)
 Used react-hook-forms for Form handling
 
 Used Yup for form validation
+
+Prevented rerendering of Search component
+
