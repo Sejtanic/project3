@@ -1,0 +1,11 @@
+.navigation-style {
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: #f5f5f5;
+}
+.navigation-style a {
+  text-decoration: none;
+  color: black;
+}

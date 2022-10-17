@@ -1,0 +1,16 @@
+.search-style {
+  margin: 20px auto;
+  width: fit-content;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+.search-style select {
+  padding: 5px 10px;
+}
+.search-style option {
+  font-size: 11px;
+  padding: none;
+  height: 10px;
+}

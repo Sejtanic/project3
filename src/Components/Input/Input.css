@@ -1,0 +1,15 @@
+.input-style {
+  display: flex;
+  align-content: flex-start;
+  justify-content: center;
+  flex-direction: column;
+  gap: 5px;
+  width: 100%;
+}
+.input-style input {
+  height: 35px;
+  font-size: 16px;
+  padding: 5px;
+  outline: none;
+  letter-spacing: 1px;
+}

@@ -1,0 +1,14 @@
+.loading {
+  margin: auto;
+  text-align: center;
+  font-size: 40px;
+  animation: rotate 2s infinite;
+}
+.loading span {
+}
+
+@keyframes rotate {
+  100% {
+    transform: rotate(360deg);
+  }
+}
